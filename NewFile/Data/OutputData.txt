@@ -1,0 +1,9 @@
+Tong gia tri trong ma tran: 75
+So luong cac so nguyen to: 15
+Tong so luong cac so le trong ma tran: 15
+Tong gia tri duong bien ma tran: 48
+3 3 3 3 3 
+6 6 6 6 6 
+9 9 9 9 9 
+12 12 12 12 12 
+15 15 15 15 15 
