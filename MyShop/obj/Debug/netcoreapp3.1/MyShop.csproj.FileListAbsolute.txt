@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Kiemtra-Hieu\MyShop\bin\Debug\netcoreapp3.1\MyShop.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Kiemtra-Hieu\MyShop\bin\Debug\netcoreapp3.1\MyShop.deps.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Kiemtra-Hieu\MyShop\bin\Debug\netcoreapp3.1\MyShop.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Kiemtra-Hieu\MyShop\bin\Debug\netcoreapp3.1\MyShop.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Kiemtra-Hieu\MyShop\bin\Debug\netcoreapp3.1\MyShop.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Kiemtra-Hieu\MyShop\bin\Debug\netcoreapp3.1\MyShop.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Kiemtra-Hieu\MyShop\obj\Debug\netcoreapp3.1\MyShop.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Kiemtra-Hieu\MyShop\obj\Debug\netcoreapp3.1\MyShop.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Kiemtra-Hieu\MyShop\obj\Debug\netcoreapp3.1\MyShop.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Kiemtra-Hieu\MyShop\obj\Debug\netcoreapp3.1\MyShop.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Kiemtra-Hieu\MyShop\obj\Debug\netcoreapp3.1\MyShop.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Kiemtra-Hieu\MyShop\obj\Debug\netcoreapp3.1\MyShop.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Kiemtra-Hieu\MyShop\obj\Debug\netcoreapp3.1\MyShop.genruntimeconfig.cache
