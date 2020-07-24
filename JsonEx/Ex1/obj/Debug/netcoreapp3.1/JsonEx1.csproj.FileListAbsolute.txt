@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\bin\Debug\netcoreapp3.1\JsonEx1.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\bin\Debug\netcoreapp3.1\JsonEx1.deps.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\bin\Debug\netcoreapp3.1\JsonEx1.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\bin\Debug\netcoreapp3.1\JsonEx1.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\bin\Debug\netcoreapp3.1\JsonEx1.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\bin\Debug\netcoreapp3.1\JsonEx1.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\obj\Debug\netcoreapp3.1\JsonEx1.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\obj\Debug\netcoreapp3.1\JsonEx1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\obj\Debug\netcoreapp3.1\JsonEx1.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\obj\Debug\netcoreapp3.1\JsonEx1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\obj\Debug\netcoreapp3.1\JsonEx1.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\obj\Debug\netcoreapp3.1\JsonEx1.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\obj\Debug\netcoreapp3.1\JsonEx1.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\JsonEx\obj\Debug\netcoreapp3.1\JsonEx1.genruntimeconfig.cache

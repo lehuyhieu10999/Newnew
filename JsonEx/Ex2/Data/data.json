@@ -1,0 +1,67 @@
+{
+  "students": [
+    {
+      "Id": 1,
+      "Name": "Le Huy Hieu",
+      "Gender": "Male",
+      "Class": "12A",
+
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 7
+        },
+        {
+          "name": "Physical",
+          "score": 7
+        },
+        {
+          "name": "Chemmistry",
+          "score": 7
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Name": "Le Huy",
+      "Gender": "Male",
+      "Class": "12A",
+
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 10
+        },
+        {
+          "name": "Physical",
+          "score": 10
+        },
+        {
+          "name": "Chemmistry",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Name": "Le",
+      "Gender": "Female",
+      "Class": "12A",
+
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 5
+        },
+        {
+          "name": "Physical",
+          "score": 5
+        },
+        {
+          "name": "Chemmistry",
+          "score": 5
+        }
+      ]
+    }
+  ]
+}
