@@ -149,8 +149,6 @@ namespace Ex3
                 Console.WriteLine($"{e.GetType()}, {e.Message}");
                 Pay();
             }
-           
-           
         }
         // Thêm đồ uống
         private static void UpdateTable()

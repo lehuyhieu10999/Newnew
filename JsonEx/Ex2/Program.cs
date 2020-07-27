@@ -1,9 +1,11 @@
 ﻿using Newtonsoft.Json;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.IO;
 using System.Linq;
+using System.Runtime.InteropServices.WindowsRuntime;
 
 namespace Ex2
 {
@@ -12,8 +14,8 @@ namespace Ex2
         static void Main(string[] args)
         {
 
-            var filePath = @"C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\Ex2\Data\data.json";
-            var outFilePath = @"C:\Users\ADMIN\Desktop\Huy Hiệu\Newnew\JsonEx\Ex2\Data\Outcome.json";
+            var filePath = @"C:\Users\ADMIN\Desktop\HuyHiệu\Newnew\JsonEx\Ex2\Data\data.json";
+            var outFilePath = @"C:\Users\ADMIN\Desktop\HuyHiệu\Newnew\JsonEx\Ex2\Data\Outcome.json";
             var result = new Data();
             using (StreamReader sr = File.OpenText(filePath))
             {
@@ -38,15 +40,7 @@ namespace Ex2
                     average = std.AverageScore(),
                 });
             }
-            for (int i =0; i < response.students.Count - 1; i++)
-            {
-                if (response.students[i].average < response.students[i + 1].average)
-                {
-                    var temp = response.students[i];
-                    response.students[i] = response.students[i + 1];
-                    response.students[i + 1] = temp;
-                } 
-            }
+            response.students.Sort(new CompareAve());
             using (StreamWriter sw = File.CreateText(outFilePath))
             {
                 var data = JsonConvert.SerializeObject(response);
@@ -85,7 +79,7 @@ namespace Ex2
             }
             public override string ToString()
             {
-                return $"{Id}\t\t{Name}\t\t{Gender}\t\t{Class}\t\t{subjects[0].score}\t\t{subjects[1].score}\t\t{subjects[2].score}\t\t{AverageScore()}";
+                return $"{Id}\t\t{Name}\t\t{Gender}\t\t{Class}\t\t{subjects[0].score}\t\t{subjects[1].score}\\t\t{subjects[2].score}t\t{AverageScore()}";
             }
 
         }
@@ -123,6 +117,13 @@ namespace Ex2
                     return "TB";
                 }
                 return "Yeu";
+            }
+        }
+        public class CompareAve : IComparer<ResStudent>
+        {
+            public int Compare( ResStudent x, ResStudent y)
+            {
+                return y.average.CompareTo(x.average);
             }
         }
 
