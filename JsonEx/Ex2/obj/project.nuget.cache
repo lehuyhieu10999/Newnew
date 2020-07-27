@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0K2kRZLpiRhqae3w5J2ES4rit8F1GmqDXvBCOgiUIb+frNOFm08aGsdN6/PCGKrs27K0o+mOH5Y6L0YyyvlH7g==",
+  "dgSpecHash": "wpdGxHf9gXmT0TeB6Wg/wonnv3HxcMLufhp0tJppikqH1UGyZkikVvApPEB6H9ZDL/JCT1IsX1a5+uM/xu1f6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Newnew\\JsonEx\\Ex2\\Ex2.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\HuyHiệu\\Newnew\\JsonEx\\Ex2\\Ex2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

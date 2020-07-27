@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\HuyHiệu\\Newnew\\JsonEx\\Ex2\\Ex2.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\HuyHiệu\\Newnew\\JsonEx\\Ex3\\Ex3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\HuyHiệu\\Newnew\\JsonEx\\Ex2\\Ex2.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\HuyHiệu\\Newnew\\JsonEx\\Ex3\\Ex3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHiệu\\Newnew\\JsonEx\\Ex2\\Ex2.csproj",
-        "projectName": "Ex2",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHiệu\\Newnew\\JsonEx\\Ex2\\Ex2.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHiệu\\Newnew\\JsonEx\\Ex3\\Ex3.csproj",
+        "projectName": "Ex3",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHiệu\\Newnew\\JsonEx\\Ex3\\Ex3.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHiệu\\Newnew\\JsonEx\\Ex2\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHiệu\\Newnew\\JsonEx\\Ex3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
