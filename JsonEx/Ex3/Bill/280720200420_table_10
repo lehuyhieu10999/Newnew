@@ -1,0 +1,22 @@
+{
+  "drinks": [
+    {
+      "name": "coca",
+      "price": 50000,
+      "count": 100,
+      "amount": 5000000
+    },
+    {
+      "name": "pepsi",
+      "price": 50000,
+      "count": 100,
+      "amount": 5000000
+    }
+  ],
+  "TableId": 10,
+  "CustomerName": "My",
+  "TimeOrder": "28/07/2020 04:19:58",
+  "Timeout": "28/07/2020 04:20:40",
+  "Status": 2,
+  "totalAmount": 10000000
+}

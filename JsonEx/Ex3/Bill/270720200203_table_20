@@ -1,0 +1,39 @@
+{
+  "drinks": [
+    {
+      "name": "coca",
+      "price": 20000,
+      "count": 20,
+      "amount": 400000
+    }
+  ],
+  "TableId": 20,
+  "CustomerName": "My",
+  "TimeOrder": "27/07/2020 02:03:52",
+  "Timeout": "27/07/2020 02:03:58",
+  "Status": 2,
+  "totalAmount": 400000
+}
+{
+  "product": [
+    {
+      "name": "coca",
+      "price": 20000,
+      "count": 20,
+      "amount": 400000
+    },
+    {
+
+      "name": "pepsi",
+      "price": 20000,
+      "count": 20,
+      "amount": 400000
+    }
+  ],
+  "CartId": 20,
+  "CustomerName": "My",
+  "Timebuy": "27/07/2020 02:03:52",
+  "Timeout": "27/07/2020 02:03:58",
+  "Status": 2,
+  "totalAmount": 400000
+}

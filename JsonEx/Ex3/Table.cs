@@ -28,16 +28,18 @@ namespace Ex3
 
         public override string ToString()
         {
-            string str = $"\nOrderId: {TableId}\nCustomer: {CustomerName}\n" +
-                $"Time Order: {TimeOrder}\nTimeout: {Timeout}\n" + 
-                $"Status: {((Status == 1) ? "Waiting ..." : (Status == 2) ? "Paid" : "Cancel")}" +
-                $"\nProduct:\nName\t\tPrice\tCount\tAmount";
-           
+            string str ="";
             foreach (var drink in drinks)
             {
                 str += $"\n{drink.ToString()}";
             }
-            str += $"\nTotal Amount: {totalAmount}\n\t\t----------*******------------";
+             str = $"\nOrderId: {TableId}\nCustomer: {CustomerName}\n" +
+                $"Time Order: {TimeOrder}\nTimeout: {Timeout}\n" + 
+                $"Status: {((Status == 1) ? "Waiting ..." : (Status == 2) ? "Paid" : "Cancel")}" +
+                $"\nProduct:\nName\t\tPrice\tCount\tAmount";
+           
+           
+            str += $"\nTotal Amount: {totalAmount} VND\n\t\t----------*******------------";
             return str;
         }
     }
