@@ -1,0 +1,4 @@
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\bin\Debug\netcoreapp3.1\FashionShop.exe
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\obj\Debug\netcoreapp3.1\FashionShop.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\obj\Debug\netcoreapp3.1\FashionShop.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\obj\Debug\netcoreapp3.1\FashionShop.AssemblyInfo.cs

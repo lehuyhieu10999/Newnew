@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5w9iQk/Jvh7yhHmaz6LgFFRYFN5fxF7uXpDc3VKXsPBzVx0mG9Pg3IcU/GTe76Eg2WlcMTzcR6W8/aZLfQqfNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Newnew\\BT\\BTModule2\\FashionShop\\FashionShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

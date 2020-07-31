@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{9B668586-2C7D-467A-B0E5-EB9B6B7FB873}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Matrix\Matrix.csproj", "{18BAD9B8-5388-4763-A6FD-D4F266265AB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrix", "Matrix\Matrix.csproj", "{18BAD9B8-5388-4763-A6FD-D4F266265AB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FashionShop", "FashionShop\FashionShop.csproj", "{723EE306-FD39-4636-BC66-765433E5BA6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{18BAD9B8-5388-4763-A6FD-D4F266265AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18BAD9B8-5388-4763-A6FD-D4F266265AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18BAD9B8-5388-4763-A6FD-D4F266265AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723EE306-FD39-4636-BC66-765433E5BA6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723EE306-FD39-4636-BC66-765433E5BA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723EE306-FD39-4636-BC66-765433E5BA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723EE306-FD39-4636-BC66-765433E5BA6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
