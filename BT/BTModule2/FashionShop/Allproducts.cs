@@ -11,7 +11,7 @@ namespace FashionShop
 {
     public static class Allproducts
     {
-        public static string path = $@"C:\Users\ADMIN\Desktop\HuyHieu\Exercises\Kiemtra-Hieu\MyShop\Data\";
+        public static string path = $@"C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\Data\";
         public static string filename = "products.json";
 
         public static Dictionary<int, Product> Products = ReadData();

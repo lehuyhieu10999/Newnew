@@ -1,0 +1,25 @@
+{
+  "Listuser": [
+    {
+      "isadmin": true,
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "isadmin": false,
+      "username": "hieu",
+      "password": "111"
+    },
+    {
+      "isadmin": false,
+      "username": "hieu3",
+      "password": "0000"
+    },
+    {
+      "isadmin": true,
+      "username": "hieu4",
+      "password": "4444"
+    }
+  ]
+}
+

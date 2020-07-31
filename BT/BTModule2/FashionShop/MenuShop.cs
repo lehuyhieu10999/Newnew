@@ -8,7 +8,7 @@ namespace FashionShop
 {
     public class Menu
     {
-        public static string path = @$"C:\Users\ADMIN\Desktop\HuyHieu\Exercises\Kiemtra-Hieu\MyShop\Data\";
+        public static string path = @$"C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\Data\";
         public static string nameFile = "data.json";
         public static Shop shop = new Shop(path, nameFile);
 

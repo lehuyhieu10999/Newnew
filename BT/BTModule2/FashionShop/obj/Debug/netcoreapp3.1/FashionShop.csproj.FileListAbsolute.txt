@@ -2,3 +2,14 @@ C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\bin\Debug\netcore
 C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\obj\Debug\netcoreapp3.1\FashionShop.csprojAssemblyReference.cache
 C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\obj\Debug\netcoreapp3.1\FashionShop.AssemblyInfoInputs.cache
 C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\obj\Debug\netcoreapp3.1\FashionShop.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\bin\Debug\netcoreapp3.1\FashionShop.deps.json
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\bin\Debug\netcoreapp3.1\FashionShop.runtimeconfig.json
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\bin\Debug\netcoreapp3.1\FashionShop.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\bin\Debug\netcoreapp3.1\FashionShop.dll
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\bin\Debug\netcoreapp3.1\FashionShop.pdb
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\obj\Debug\netcoreapp3.1\FashionShop.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\obj\Debug\netcoreapp3.1\FashionShop.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\obj\Debug\netcoreapp3.1\FashionShop.dll
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\obj\Debug\netcoreapp3.1\FashionShop.pdb
+C:\Users\ADMIN\Desktop\HuyHieu\Newnew\BT\BTModule2\FashionShop\obj\Debug\netcoreapp3.1\FashionShop.genruntimeconfig.cache
